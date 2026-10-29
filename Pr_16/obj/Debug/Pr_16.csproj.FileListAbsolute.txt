@@ -1,0 +1,7 @@
+C:\Users\kuzin\Desktop\яр\Pr_16\bin\Debug\Pr_16.exe.config
+C:\Users\kuzin\Desktop\яр\Pr_16\bin\Debug\Pr_16.exe
+C:\Users\kuzin\Desktop\яр\Pr_16\bin\Debug\Pr_16.pdb
+C:\Users\kuzin\Desktop\яр\Pr_16\obj\Debug\Pr_16.csproj.AssemblyReference.cache
+C:\Users\kuzin\Desktop\яр\Pr_16\obj\Debug\Pr_16.csproj.CoreCompileInputs.cache
+C:\Users\kuzin\Desktop\яр\Pr_16\obj\Debug\Pr_16.exe
+C:\Users\kuzin\Desktop\яр\Pr_16\obj\Debug\Pr_16.pdb
